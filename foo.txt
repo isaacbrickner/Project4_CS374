@@ -1,0 +1,14 @@
+total 360
+drwxr-xr-x  13 Isaacbricknerschool  staff    416 Feb  4 13:44 .
+drwxr-xr-x   7 Isaacbricknerschool  staff    224 Feb  4 10:44 ..
+drwxr-xr-x  13 Isaacbricknerschool  staff    416 Feb  4 12:11 .git
+-rw-r--r--   1 Isaacbricknerschool  staff      0 Feb  4 13:44 foo.txt
+-rwxr-xr-x   1 Isaacbricknerschool  staff  50032 Feb  4 10:43 inclass
+-rw-r--r--   1 Isaacbricknerschool  staff    750 Feb  4 10:06 inclass.c
+-rw-r--r--   1 Isaacbricknerschool  staff    691 Feb  4 09:43 inclass1.30.c
+-rw-r--r--   1 Isaacbricknerschool  staff    189 Feb  4 09:33 inclass_1.29.c
+-rwxr-xr-x   1 Isaacbricknerschool  staff  49896 Feb  4 12:11 lswc
+-rw-r--r--   1 Isaacbricknerschool  staff    597 Feb  4 12:20 lswc.c
+-rw-r--r--   1 Isaacbricknerschool  staff   1937 Feb  4 11:52 mush.c
+-rwxr-xr-x   1 Isaacbricknerschool  staff  49592 Feb  4 13:44 redirout
+-rw-r--r--   1 Isaacbricknerschool  staff    336 Feb  4 13:43 redirout.c
